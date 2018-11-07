@@ -19,9 +19,9 @@
     </license>
   </licenses>
 <scm>
-		<connection>scm:git:git://github.com:Grasia/ingenias-archetypes.git</connection>
+	<connection>scm:git:git://github.com:Grasia/ingenias-archetypes.git</connection>
 		<developerConnection>scm:git:git@github.com:Grasia/ingenias-archetypes.git</developerConnection>
-		<url>https://github.com/Grasia/ingenias-archetypes</url>		
+		<url>https://github.com/Grasia/ingenias-archety	</url>		
 	</scm>
 
 <developers>

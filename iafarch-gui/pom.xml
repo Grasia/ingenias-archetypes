@@ -21,6 +21,7 @@
 <scm>
 	<connection>scm:git:git://github.com:Grasia/ingenias-archetypes.git</connection>
 		<developerConnection>scm:git:git@github.com:Grasia/ingenias-archetypes.git</developerConnection>
+		<url>https://github.com/Grasia/ingenias-archety	</url>Grasia/ingenias-archetypes.git</developerConnection>
 		<url>https://github.com/Grasia/ingenias-archety	
 	</scm>
 
