@@ -17,10 +17,10 @@
       <distribution />
     </license>
   </licenses>
-	<scm>
-		<connection>scm:svn:http://ingenias.svn.sourceforge.net/svnroot/ingenias/tags/iafarch-1.4/iafarch-empty</connection>
-		<developerConnection>scm:svn:https://ingenias.svn.sourceforge.net/svnroot/ingenias/tags/iafarch-1.4/iafarch-empty</developerConnection>
-		<url>http://ingenias.svn.sourceforge.net/svnroot/ingenias/tags/iafarch-1.4/iafarch-empty</url>		
+<scm>
+		<connection>scm:git@github.com:Grasia/ingenias-archetypes.git</connection>
+		<developerConnection>scm:git@github.com:Grasia/ingenias-archetypes.git</developerConnection>
+		<url>https://github.com/Grasia/ingenias-archetypes.git</url>		
 	</scm>
 
 <developers>
